@@ -2,9 +2,7 @@
 
 A script to scrape book information from the website [Books to Scrape](https://books.toscrape.com/).
 
-<<<<<<< HEAD
 ## 📌 Functionality
-=======
 
 Scrapes the following data for each book:
 Title
